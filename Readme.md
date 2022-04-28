@@ -2,6 +2,11 @@
 <!-- README.md is generated from README.Rmd on GitHub Actions: do not edit by hand -->
 
 # pillar
+<!-- badges: start -->
+
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable) [![R build status](https://github.com/r-lib/pillar/workflows/R-CMD-check/badge.svg)](https://github.com/r-lib/pillar/actions) [![Coverage status](https://codecov.io/gh/r-lib/pillar/branch/master/graph/badge.svg)](https://codecov.io/github/r-lib/pillar?branch=master) [![CRAN status](https://www.r-pkg.org/badges/version/pillar)](https://cran.r-project.org/package=pillar)
+
+<!-- badges: end -->
 
 pillar provides tools for styling columns of data, artfully using colour and unicode characters to guide the eye.
 
