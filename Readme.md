@@ -1,31 +1,9 @@
-
-<!-- README.md is generated from README.Rmd on GitHub Actions: do not edit by hand -->
-
-# pillar
-<!-- badges: start -->
-
-[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable) [![R build status](https://github.com/r-lib/pillar/workflows/R-CMD-check/badge.svg)](https://github.com/r-lib/pillar/actions) [![Coverage status](https://codecov.io/gh/r-lib/pillar/branch/master/graph/badge.svg)](https://codecov.io/github/r-lib/pillar?branch=master) [![CRAN status](https://www.r-pkg.org/badges/version/pillar)](https://cran.r-project.org/package=pillar)
-
-<!-- badges: end -->
-
-pillar provides tools for styling columns of data, artfully using colour and unicode characters to guide the eye.
-
-## Installation
-
-<pre class='chroma'>
-<span class='c'># pillar is installed if you install the tidyverse package:</span>
-<span class='nf'><a href='https://rdrr.io/r/utils/install.packages.html'>install.packages</a></span><span class='o'>(</span><span class='s'>"tidyverse"</span><span class='o'>)</span>
-
-<span class='c'># Alternatively, install just pillar:</span>
-<span class='nf'><a href='https://rdrr.io/r/utils/install.packages.html'>install.packages</a></span><span class='o'>(</span><span class='s'>"pillar"</span><span class='o'>)</span>
-
-<span class='c'># Or the the development version from GitHub:</span>
-<span class='c'># install.packages("devtools")</span>
-<span class='nf'>devtools</span><span class='nf'>::</span><span class='nf'><a href='https://devtools.r-lib.org//reference/remote-reexports.html'>install_github</a></span><span class='o'>(</span><span class='s'>"r-lib/pillar"</span><span class='o'>)</span></pre>
+# Geonews Supplimentary Dataset 
+https://gc.copernicus.org/preprints/gc-2021-38/
 
 ## Usage
 
-pillar is a developer-facing package that is not designed for end-users but will eventually be incorporated in packages like [tibble](https://tibble.tidyverse.org/).
+<b>Geonews Supplimentary Dataset</b> covers YouTube Dataset of Geonews Videos and other General Geoscience Educational videos.
 
 <pre class='chroma'>
 <span class='kr'><a href='https://rdrr.io/r/base/library.html'>library</a></span><span class='o'>(</span><span class='nv'><a href='https://pillar.r-lib.org/'>pillar</a></span><span class='o'>)</span>
