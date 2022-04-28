@@ -17,3 +17,10 @@ Feature Comparison between Geonews and non-Geonews Videos
 ------------------------------------------------------------------------
 If you have used this dataset, please cite the paper: Wang, N., Clowdus, Z., Sealander, A., & Stern, R. (2021). Geonews: Timely Geoscience Educational YouTube Videos about Recent Geologic Events. Geoscience Communication Discussions, 1-26. <a href="https://gc.copernicus.org/preprints/gc-2021-38/"> Click to Read the Paper </a>
     </div>
+ <pre>
+<img src="https://www.geoscience-communication.net/graphic_egu_claim_logo_blue.png">
+https://doi.org/10.5194/gc-2021-38
+© Author(s) 2021. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+<img src="https://www.geoscience-communication.net/licenceIcon_16.png">
+</pre>
