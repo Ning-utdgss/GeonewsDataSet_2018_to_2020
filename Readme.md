@@ -1,6 +1,6 @@
 # Geonews Supplimentary Dataset 
 <a href="https://gc.copernicus.org/preprints/gc-2021-38/"> Click to Read the Paper </a>
-
+<img src="https://static.wixstatic.com/media/899be9_73df595b5b884dab86e961efbe8bca1c~mv2.png/v1/fill/w_450,h_123,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/utd%20geonews.png" alt="Geonews Logo">
 ## Usage
 <b>Geonews Supplimentary Dataset</b> covers YouTube Dataset of Geonews Videos and other General Geoscience Educational videos in 2018 and 2020. To check the video, see the <a href="https://www.youtube.com/c/UTDGEOSCIENCESTUDIO2021">  UTD Geoscience Studio YouTube Channel </a>. 
 
